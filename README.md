@@ -11,3 +11,5 @@ No backend, a linguagem utilizada foi Java e para implementação do sistema e a
 Ao **Inicializar** o projeto o banco é gerado automaticamente.
 
 Na documentação foi desenvolvida no **Swagger** onde pode ser acessado através de link: http://localhost:8080/swagger-ui.html só após a **Inicialização** do projeto.
+
+Na etapa de Teste foram feitas usando o **Postman** e a Collection feita esta localizada dentro pasta de test/postaman do projeto.
